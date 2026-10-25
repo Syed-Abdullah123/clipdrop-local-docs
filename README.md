@@ -32,6 +32,8 @@ You can connect in either of these two ways:
 
 Once your browser connects successfully, the connection status will change from ```No browser connected``` to something like ```1 browser connected```.
 
+**Note:** Both devices need to be connected to the same local network for the connection to work.
+
 ### 2. Open the Web Interface
 
 After entering the IP address or scanning the QR code, you'll see the ClipDrop Local web interface in your browser.
